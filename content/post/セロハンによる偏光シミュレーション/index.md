@@ -7,7 +7,10 @@ image: "thumbnail.png"
 tags: []
 lastmod: "2023-07-24 18:53:06"
 draft: true
+playLink: "https://bicpema.web.app/simulations/cellophane/"
 ---
+
+※上記の画像をクリックするとシミュレーションが起動します。
 
 ## Topics
 

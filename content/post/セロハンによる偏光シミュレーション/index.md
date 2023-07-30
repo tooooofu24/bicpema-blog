@@ -6,7 +6,6 @@ date: "2023-07-24T18:53:06+09:00"
 image: "thumbnail.png"
 tags: []
 lastmod: "2023-07-24 18:53:06"
-draft: true
 playLink: "https://bicpema.web.app/simulations/cellophane/"
 ---
 

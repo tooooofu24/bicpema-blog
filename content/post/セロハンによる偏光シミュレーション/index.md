@@ -4,7 +4,7 @@ description: ""
 author: "kenji"
 date: "2023-07-24T18:53:06+09:00"
 image: "thumbnail.png"
-tags: []
+tags: ["物理"]
 lastmod: "2023-07-24 18:53:06"
 playLink: "https://bicpema.web.app/simulations/cellophane/"
 ---

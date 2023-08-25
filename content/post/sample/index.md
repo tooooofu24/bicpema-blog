@@ -4,7 +4,7 @@ description: ""
 author: "kenji"
 date: "2023-06-15T00:46:41+09:00"
 image: "thumbnail.png"
-tags: ["日本語", "Sample"]
+tags: ["Sample"]
 lastmod: "2023-06-15 00:46:41"
 ---
 

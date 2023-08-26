@@ -31,6 +31,12 @@ $ hugo server -D
 $ hugo new post/[記事のタイトル(英語)]/index.md
 ```
 
+タグの追加
+
+```
+$ hugo new tags/[記事のタイトル(英語)]/index.md
+```
+
 マークダウンの記法は以下が参考になる
 
 https://github.com/CaiJimmy/hugo-theme-stack/tree/master/exampleSite/content/post

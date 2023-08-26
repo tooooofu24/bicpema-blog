@@ -4,7 +4,7 @@ description: "本教材は任意の枚数のセロハンテープを二枚の偏
 author: "kenji"
 date: "2023-07-24T18:53:06+09:00"
 image: "thumbnail.png"
-tags: ["物理"]
+tags: ["物理","偏光","光学"]
 lastmod: "2023-07-24 18:53:06"
 playLink: "https://bicpema.web.app/simulations/cellophane/"
 ---
@@ -13,20 +13,28 @@ playLink: "https://bicpema.web.app/simulations/cellophane/"
 
 ## 扱っている現象および本教材の説明
 
-偏光板には様々な方向に振動している自然光を、振動方向が透過軸に平行な一方向の光に変換する性質がある。偏光板２枚を互いの透過軸が直交するように重ねると光が透過できなくなるが、偏光板の間にセロハンテープを挟むと一部の光が透過するようになり、透過した光は色づく（図１，図２）。
+　偏光板には様々な方向に振動している自然光を、振動方向が透過軸に平行な一方向の光に変換する性質がある。偏光板２枚を互いの透過軸が直交するように重ねると光が透過できなくなるが（図１）、偏光板の間にセロハンテープを挟むと一部の光が透過するようになり、透過した光は色づく（図２）。
 
-<div class="clearfix" style = "width:100%; display:inline-block">
-    <div style = "width:50%; float:left; text-align:center;">
-        <img src="./45.png">
+<div style = "width:fit-content; margin: 0 auto;">
+    <div style = "float:left; text-align:center;">
+        <img src="./図１.png" style = "height:200px; margin:10px">
         <div>図１ 直交に重ねた図</div>
     </div>
-    <div style = "width:50%; float:left; text-align:center;">
-        <img src="./44.png">
+    <div style = "float:left; text-align:center;">
+        <img src="./図２.png" style = "height:200px; margin:10px">
         <div>図２ 偏光色</div>
     </div>
 </div>
+<div style = "clear: both;"></div>
 
-この透過した光の発色は偏光色と呼ばれ、セロハンテープの枚数や観察する角度等で色を制御できることから、身近にアートや科学作品に用いられている。発色は複屈折を有するセロハンテープによって光の偏光が波長に依存して変化することに起因する。本教材は、偏光色の仕組みの直観的な理解を目的として、光の波長やセロハンテープの枚数などの条件を設定し、セロハンテープを透過した光の偏光状態の変化を立体的な視点で観察することができる３ D シミュレーションである。
+　この透過した光の発色は偏光色と呼ばれ、セロハンテープの枚数や観察する角度等で色を制御できることから、身近にアートや科学作品に用いられている。発色は複屈折を有するセロハンテープによって光の偏光が波長に依存して変化することに起因する（図３）。
+
+<div style = "text-align:center;">
+    <img src="./図３.png" style = "width:100%;">
+    <div>図３ 偏光が変化する様子</div>
+</div>
+
+　本教材は、偏光色の仕組みの直観的な理解を目的として、光の波長やセロハンテープの枚数などの条件を設定し、セロハンテープを透過した光の偏光状態の変化を立体的な視点で観察することができる３Dシミュレーションである。
 
 ## 対象
 

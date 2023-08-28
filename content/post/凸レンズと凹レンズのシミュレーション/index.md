@@ -8,3 +8,5 @@ tags: ["レンズ", "光学", "中学校"]
 lastmod: "2023-08-26"
 playLink: "https://bicpema.web.app/simulations/lens/"
 ---
+
+※上記の画像をクリックするとシミュレーションが起動します。

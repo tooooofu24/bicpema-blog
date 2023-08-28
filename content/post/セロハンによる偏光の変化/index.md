@@ -4,7 +4,7 @@ description: "本教材は任意の枚数のセロハンテープを二枚の偏
 author: "kenji"
 date: "2023-07-24"
 image: "thumbnail.png"
-tags: ["物理", "偏光", "光学"]
+tags: ["物理", "偏光", "光学", "大学"]
 lastmod: "2023-07-24"
 playLink: "https://bicpema.web.app/simulations/cellophane/"
 ---

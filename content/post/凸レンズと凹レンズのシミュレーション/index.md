@@ -4,7 +4,7 @@ description: "本教材はレンズとスクリーンの位置を相互に動か
 author: "kenji"
 date: "2023-08-26"
 image: "thumbnail.png"
-tags: []
+tags: ["レンズ", "光学", "中学校"]
 lastmod: "2023-08-26"
 playLink: "https://bicpema.web.app/simulations/lens/"
 ---

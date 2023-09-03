@@ -1,6 +1,6 @@
 ---
 title: "粘性抵抗と慣性抵抗"
-description: ""
+description: "本教材は物体の質量を変えながら抵抗の種類による運動への影響を観察するためのシミュレーション教材です。"
 author: "kenji"
 date: "2023-09-03"
 image: "thumbnail.png"

@@ -15,14 +15,16 @@ playLink: "https://bicpema.web.app/simulations/cellophane/"
 
 偏光板には様々な方向に振動している自然光を、振動方向が透過軸に平行な一方向の光に変換する性質がある。偏光板２枚を互いの透過軸が直交するように重ねると光が透過できなくなるが（図１）、偏光板の間にセロハンテープを挟むと一部の光が透過するようになり、透過した光は色づく（図２）。
 
-<div style = "width:fit-content; margin: 0 auto;">
-    <div style = "float:left; text-align:center;">
-        <img src="./図１.png" style = "height:200px; margin:10px">
-        <div>図１ 直交に重ねた図</div>
-    </div>
-    <div style = "float:left; text-align:center;">
-        <img src="./図２.png" style = "height:200px; margin:10px">
-        <div>図２ 偏光色</div>
+<div style = "margin: 100 auto;overflow:hidden">
+    <div style = "width:100%; display:flex; align-items: flex-start; justify-content:center;">
+        <div style = "float:left; text-align:center;">
+            <img src="./図１.png" style = "margin:10px;">
+            <div>図１ 直交に重ねた図</div>
+        </div>
+        <div style = "float:left; text-align:center;">
+            <img src="./図２.png" style = "margin:10px;">
+            <div>図２ 偏光色</div>
+        </div>
     </div>
 </div>
 <div style = "clear: both;"></div>

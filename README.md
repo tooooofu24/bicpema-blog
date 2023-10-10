@@ -45,6 +45,9 @@ https://github.com/CaiJimmy/hugo-theme-stack/tree/master/exampleSite/content/pos
 
 https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content/posts
 
+公式 Docs
+https://stack.jimmycai.com/
+
 ### その他
 
 - `content/post`,`content/tags`以外は基本的にはいじらない。

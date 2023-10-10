@@ -30,8 +30,13 @@ DefaultContentLanguage: ja
 hasCJKLanguage: false
 
 permalinks:
-  post: /p/:slug/
-  page: /:slug/
+  # post: /p/:slug/
+  # page: /:slug/
+  page:
+    post: /p/:slug/
+  section:
+    post: /post/
+    model: /model/
 
 params:
   mainSections:
@@ -188,12 +193,19 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-  main: []
+  main:
+    - identifier: 3d-model
+      name: 3Dモデル
+      url: /model
+      weight: -99
+      params:
+        icon: home
+        newTab: false
 
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/CaiJimmy/hugo-theme-stack
+      url: https://github.com/tooooofu24/bicpema-simulations
       params:
         icon: brand-github
 

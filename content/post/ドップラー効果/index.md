@@ -6,9 +6,8 @@ date: "2023-08-28"
 image: "thumbnail.png"
 tags: ["高校", "波動"]
 lastmod: "2023-08-28"
-playLink: "https://bicpema.web.app/simulations/doppler"
+playLink: "https://app.bicpema.com/simulations/doppler"
 ---
-
 ※上記の画像をクリックするとシミュレーションが起動します。
 
 ## 扱っている現象および本教材の説明

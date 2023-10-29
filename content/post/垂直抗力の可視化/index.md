@@ -6,9 +6,8 @@ date: "2023-08-29"
 image: "thumbnail.png"
 tags: ["中学校", "力学", "高校", "物理"]
 lastmod: "2023-08-29"
-playLink: "https://bicpema.web.app/simulations/normal-force/"
+playLink: "https://app.bicpema.com/simulations/normal-force/"
 ---
-
 ※上記の画像をクリックするとシミュレーションが起動します。
 
 ## 扱っている現象および本教材の説明

@@ -6,7 +6,7 @@ date: "2023-09-14"
 image: "thumbnail.png"
 tags: ["波動","物理","中学校","音波"]
 lastmod: "2023-09-14"
-playLink: "https://bicpema.web.app/simulations/oscilloscope/"
+playLink: "https://app.bicpema.com/simulations/oscilloscope/"
 ---
 
 ※上記の画像をクリックするとシミュレーションが起動します。

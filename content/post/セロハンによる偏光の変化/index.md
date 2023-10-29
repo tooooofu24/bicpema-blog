@@ -6,9 +6,8 @@ date: "2023-07-24"
 image: "thumbnail.png"
 tags: ["物理", "偏光", "光学", "大学"]
 lastmod: "2023-07-24"
-playLink: "https://bicpema.web.app/simulations/cellophane/"
+playLink: "https://app.bicpema.com/simulations/cellophane/"
 ---
-
 ※上記の画像をクリックするとシミュレーションが起動します。
 
 ## 扱っている現象および本教材の説明

@@ -6,7 +6,7 @@ date: "2023-09-04"
 image: "thumbnail.png"
 tags: ["力学", "高校", "物理"]
 lastmod: "2023-09-04"
-playLink: "https://bicpema.web.app/simulations/motion-compare"
+playLink: "https://app.bicpema.com/simulations/motion-compare"
 ---
 
 ※上記の画像をクリックするとシミュレーションが起動します。

@@ -6,7 +6,7 @@ date: "2023-09-03"
 image: "thumbnail.png"
 tags: ["物理", "力学", "大学"]
 lastmod: "2023-09-03"
-playLink: "https://bicpema.web.app/simulations/air-resistance"
+playLink: "https://app.bicpema.com/simulations/air-resistance"
 ---
 
 ※上記の画像をクリックするとシミュレーションが起動します。

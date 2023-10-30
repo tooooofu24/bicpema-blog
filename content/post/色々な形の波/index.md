@@ -6,7 +6,7 @@ date: "2023-10-30"
 image: "thumbnail.png"
 tags: []
 lastmod: "2023-10-30"
-playLink: "https://bicpema.web.app/simulations/various-wave"
+playLink: "https://app.bicpema.com/simulations/various-wave"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します。
 

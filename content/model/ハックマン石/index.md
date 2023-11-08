@@ -65,5 +65,5 @@ Bの準位に入っている電子は既に比較的エネルギーが高い状�
 
 ## 参考文献
 
-[ニュートンプレス (2022)：鉱物大図鑑， ニュートンプレス](https://www.newtonpress.co.jp/book/Daizukan/220620-Mineralzukan.html)
-[D. B. Medved(1954)：HACKMANITE AND ITS TENEBRESCENT PROPERTIES ， American Mineralogist， 9 (7-8): 615–629．](https://www.semanticscholar.org/paper/HACKMANITE-AND-ITS-TENEBRESCENT-PROPERTIES-MBnvEo/51749aa2c0c662a2be23b2cffbf0fbca7878363a#citing-papers)
+- [ニュートンプレス (2022)：鉱物大図鑑， ニュートンプレス](https://www.newtonpress.co.jp/book/Daizukan/220620-Mineralzukan.html)
+- [D. B. Medved(1954)：HACKMANITE AND ITS TENEBRESCENT PROPERTIES ， American Mineralogist， 9 (7-8): 615–629．](https://www.semanticscholar.org/paper/HACKMANITE-AND-ITS-TENEBRESCENT-PROPERTIES-MBnvEo/51749aa2c0c662a2be23b2cffbf0fbca7878363a#citing-papers)

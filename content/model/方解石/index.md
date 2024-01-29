@@ -2,10 +2,10 @@
 title: "方解石"
 description: "シミュレーション教材の説明を入れてください。"
 author: "sakuma"
-date: "2023-11-01"
+date: "2023-12-26"
 image: "thumbnail.png"
 tags: []
-lastmod: "2023-11-01"
+lastmod: "2023-12-26"
 playLink: "https://app.bicpema.com/simulations/Min3DPBuild_Slt"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します(起動に数分程度かかることがあります)。
@@ -49,7 +49,7 @@ playLink: "https://app.bicpema.com/simulations/Min3DPBuild_Slt"
 
 ### テネブレッセンス
 
-蛍光のほかにも、紫外線によって鉱物の色が変わる現象として、テネブレッセンスがあります。テネブレッセンスを示す鉱物の一つにハックマン石があります。当サイトの[ハックマン石のページ](<https://bicpema-blog.web.app/model/%E3%83%8F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E7%9F%B3/>)にて、テネブレッセンスした鉱物の3Dモデルやテネブレッセンスに関する解説を見ることができます。
+蛍光のほかにも、紫外線によって鉱物の色が変わる現象として、テネブレッセンスがあります。テネブレッセンスを示す鉱物の一つにハックマン石があります。当サイトの[ハックマン石のページ](https://bicpema-blog.web.app/model/%E3%83%8F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E7%9F%B3/)にて、テネブレッセンスした鉱物の3Dモデルやテネブレッセンスに関する解説を見ることができます。
 ![](Hackmanite.png)
 
 ## スペクトルとは

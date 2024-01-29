@@ -2,10 +2,10 @@
 title: "ウェルネル石"
 description: "シミュレーション教材の説明を入れてください。"
 author: "sakuma"
-date: "2023-12-11"
+date: "2023-11-02"
 image: "thumbnail.png"
 tags: []
-lastmod: "2023-12-11"
+lastmod: "2023-11-02"
 playLink: "https://app.bicpema.com/simulations/Min3DPBuild_Sco"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します(起動に数分程度かかることがあります)。

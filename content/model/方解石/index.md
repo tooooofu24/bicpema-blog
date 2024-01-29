@@ -2,10 +2,10 @@
 title: "方解石"
 description: "シミュレーション教材の説明を入れてください。"
 author: "sakuma"
-date: "2023-12-26"
+date: "2023-11-01"
 image: "thumbnail.png"
 tags: []
-lastmod: "2023-12-26"
+lastmod: "2023-11-01"
 playLink: "https://app.bicpema.com/simulations/Min3DPBuild_Slt"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します(起動に数分程度かかることがあります)。

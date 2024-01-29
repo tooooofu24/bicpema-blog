@@ -2,10 +2,10 @@
 title: "ハックマン石"
 description: "蛍光・テネブレッセンスを示す鉱物「ハックマン石」の観察教材です。"
 author: "sakuma"
-date: "2023-11-01"
+date: "2023-11-04"
 image: "thumbnail.png"
 tags: []
-lastmod: "2023-11-01"
+lastmod: "2023-11-04"
 playLink: "https://app.bicpema.com/simulations/Min3DPBuild_Dal"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します(起動に数分程度かかることがあります)。

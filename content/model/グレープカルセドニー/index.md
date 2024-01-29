@@ -2,10 +2,10 @@
 title: "グレープカルセドニー"
 description: "シミュレーション教材の説明を入れてください。"
 author: "sakuma"
-date: "2023-11-04"
+date: "2023-11-03"
 image: "thumbnail.png"
 tags: []
-lastmod: "2023-11-04"
+lastmod: "2023-11-03"
 playLink: "https://app.bicpema.com/simulations/Min3DPBuild_Emb"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します(起動に数分程度かかることがあります)。

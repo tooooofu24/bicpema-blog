@@ -1,6 +1,6 @@
 ---
 title: "RGB混色"
-description: "シミュレーション教材の説明を入れてください。"
+description: "RGBの数値を変更して色の変化を見るシミュレーションです。"
 author: "mino"
 date: "2024-02-15"
 image: "RGB_thumbnail.png"

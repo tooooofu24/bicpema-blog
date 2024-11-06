@@ -3,7 +3,7 @@ title: "炭酸塩鉱物のラマン散乱分光"
 description: "シミュレーション教材の説明を入れてください。"
 author: "takatsugu"
 date: "2024-11-06"
-image: "thumbnail.png"
+image: "炭酸塩鉱物.jpg"
 tags: []
 lastmod: "2024-11-06"
 playLink: "https://app.bicpema.com/simulations/raman"

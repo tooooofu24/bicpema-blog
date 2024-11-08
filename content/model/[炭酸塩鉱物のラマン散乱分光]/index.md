@@ -6,7 +6,7 @@ date: "2024-11-06"
 image: "炭酸塩鉱物.jpg"
 tags: []
 lastmod: "2024-11-06"
-playLink: "https://app.bicpema.com/simulations/raman"
+playLink: "https://app.bicpema.com/simulations/carbonate_mineral"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します。
 

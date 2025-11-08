@@ -6,12 +6,12 @@ date: "2024-11-06"
 image: "thumbnail.png"
 tags: []
 lastmod: "2024-11-06"
-playLink: "https://app.bicpema.com/simulations/cellophane-color-2D_animation"
+playLink: "https://bicpema.web.app/vite/simulations/cellophane-color-2D_animation/"
 ---
 ※上記の画像をクリックするとシミュレーションが起動します。
 
 〈グラフ無しverはこちらから〉
- "<https://app.bicpema.com/simulations/cellophane_display>"
+ "<https://bicpema.web.app/vite/simulations/cellophane_display/>"
 
 ## 扱っている現象および本教材の説明
 
